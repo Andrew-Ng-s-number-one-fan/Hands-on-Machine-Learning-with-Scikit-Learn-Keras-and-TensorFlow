@@ -1,33 +1,39 @@
-# 基于Scikit-Learn和TensorFlow的机器学习实战
+# Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
-### 第1章 - Machine Learning概览
+### Chapter 1 - The Machine Learning Landscape
 
-### 第2章 - End-to-End机器学习项目
+### Chapter 2 - End-to-End Machine Learning Project
 
-### 第3章 - Classification
+### Chapter 3 - Classification
 
-### 第4章 - Training
+### Chapter 4 - Training Models
 
-### 第5章 - Support Vector Machine
+### Chapter 5 - Support Vector Machines
 
-### 第6章 - Decision Tree
+### Chapter 6 - Decision Trees
 
-### 第7章 - Ensemble Learning & Random Forest
+### Chapter 7 - Ensemble Learning and Random Forests
 
-### 第8章 - Dimension Reduction
+### Chapter 8 - Dimensionality Reduction
 
-### 第9章 - 运行TensorFlow
+### Chapter 9 - Unsupervised Learning Techniques
 
-### 第10章 - Artificial Neural Network简介
+### Chapter 10 - Introduction to Artificial Neural Networks with Keras
 
-### 第11章 - 训练Deep Neural Networks
+### Chapter 11 - Training Deep Neural Networks
 
-### 第12章 - 跨设备和服务器的分布式TensorFlow
+### Chapter 12 - Custom Models and Training with TensorFlow
 
-### 第13章 - Convolutional Neural Networks
+### Chapter 13 - Loading and Preprocessing with TensorFlow
 
-### 第14章 - Recurrent Neural Networks
+### Chapter 14 - Deep Computer Vision Using Convolutional Neural Networks
 
-### 第15章 - Auto-Encoders
+### Chapter 15 - Processing Sequences Using RNNs and CNNs
 
-### 第16章 - Reinforcement Learning
+### Chapter 16 - Natural Language Processing with RNNs and Attention
+
+### Chapter 17 - Representation Learning and Generative Learning Using Autoencoders and GANs
+
+### Chapter 18 - Reinforcement Learning
+
+### Chapter 19 - Training and Deploying TensorFlow Models at Scale
