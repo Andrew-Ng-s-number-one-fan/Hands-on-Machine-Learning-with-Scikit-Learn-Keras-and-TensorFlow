@@ -1,4 +1,5 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+<i> A book by Aurélien Géron</i>
 
 ### Chapter 1 - The Machine Learning Landscape
 
