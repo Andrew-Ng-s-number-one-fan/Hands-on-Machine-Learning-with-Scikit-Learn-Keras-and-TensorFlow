@@ -3,6 +3,8 @@
 
 ### Chapter 1 - The Machine Learning Landscape
 
+- [Predicting Life Satisfaction using GDP per capita.ipynb]()
+
 ### Chapter 2 - End-to-End Machine Learning Project
 
 ### Chapter 3 - Classification
