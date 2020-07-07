@@ -7,6 +7,8 @@
 
 ### Chapter 2 - End-to-End Machine Learning Project
 
+- [Predicting Housing Prices.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C2_N1_Predicting%20Housing%20Price.ipynb)
+
 ### Chapter 3 - Classification
 
 ### Chapter 4 - Training Models
