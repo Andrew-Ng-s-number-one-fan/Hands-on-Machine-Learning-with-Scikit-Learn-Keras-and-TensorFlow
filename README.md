@@ -15,6 +15,8 @@
 
 ### Chapter 4 - Training Models
 
+- [Linear, Polynomial, Logistic, and Softmax Regressions.ipynb]()
+
 ### Chapter 5 - Support Vector Machines
 
 ### Chapter 6 - Decision Trees
