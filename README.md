@@ -11,6 +11,8 @@
 
 ### Chapter 3 - Classification
 
+- [Building Classifiers on MNIST.ipynb]()
+
 ### Chapter 4 - Training Models
 
 ### Chapter 5 - Support Vector Machines
