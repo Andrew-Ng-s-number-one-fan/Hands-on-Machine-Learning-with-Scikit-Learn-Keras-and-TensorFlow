@@ -11,7 +11,7 @@
 
 ### Chapter 3 - Classification
 
-- [Building Classifiers on MNIST.ipynb]()
+- [Building Classifiers on MNIST.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C3_N1_Classification%20on%20MNIST.ipynb)
 
 ### Chapter 4 - Training Models
 
