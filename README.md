@@ -19,6 +19,8 @@
 
 ### Chapter 5 - Support Vector Machines
 
+- [SVM.ipynb]()
+
 ### Chapter 6 - Decision Trees
 
 ### Chapter 7 - Ensemble Learning and Random Forests
