@@ -27,6 +27,8 @@
 
 ### Chapter 7 - Ensemble Learning and Random Forests
 
+- [Ensemble Learning and Random Forests.ipynb]()
+
 ### Chapter 8 - Dimensionality Reduction
 
 ### Chapter 9 - Unsupervised Learning Techniques
