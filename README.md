@@ -15,7 +15,7 @@
 
 ### Chapter 4 - Training Models
 
-- [Linear, Polynomial, Logistic, and Softmax Regressions.ipynb]()
+- [Linear, Polynomial, Logistic, and Softmax Regressions.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C4_N1_Linear%2C%20Polynomial%2C%20Logistic%2C%20and%20Softmax%20Regressions.ipynb)
 
 ### Chapter 5 - Support Vector Machines
 
