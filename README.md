@@ -19,7 +19,7 @@
 
 ### Chapter 5 - Support Vector Machines
 
-- [SVM.ipynb]()
+- [Support Vector Machines.ipynb]()
 
 ### Chapter 6 - Decision Trees
 
