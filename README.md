@@ -19,7 +19,7 @@
 
 ### Chapter 5 - Support Vector Machines
 
-- [Support Vector Machines.ipynb]()
+- [Support Vector Machines.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C5_N1_Support%20Vector%20Machines.ipynb)
 
 ### Chapter 6 - Decision Trees
 
