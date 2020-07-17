@@ -40,6 +40,8 @@
 
 ### Chapter 10 - Introduction to Artificial Neural Networks with Keras
 
+- [Implementing MLP and Fine-Tuning NN Hyperparameters.ipynb]()
+
 ### Chapter 11 - Training Deep Neural Networks
 
 ### Chapter 12 - Custom Models and Training with TensorFlow
