@@ -31,7 +31,12 @@
 
 ### Chapter 8 - Dimensionality Reduction
 
+- [PCA, Kernel PCA, and LLE.ipynb]()
+
 ### Chapter 9 - Unsupervised Learning Techniques
+
+- [Clustering: K-Means and DBSCAN.ipynb]()
+- [Gaussian Mixtures.ipynb]()
 
 ### Chapter 10 - Introduction to Artificial Neural Networks with Keras
 
