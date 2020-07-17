@@ -23,7 +23,7 @@
 
 ### Chapter 6 - Decision Trees
 
-- [Decision Trees.ipynb]()
+- [Decision Trees.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C6_N1_Decision%20Trees.ipynb)
 
 ### Chapter 7 - Ensemble Learning and Random Forests
 
