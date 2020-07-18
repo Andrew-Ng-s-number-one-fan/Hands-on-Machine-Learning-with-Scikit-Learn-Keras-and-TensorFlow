@@ -27,7 +27,7 @@
 
 ### Chapter 7 - Ensemble Learning and Random Forests
 
-- [Ensemble Learning and Random Forests.ipynb]()
+- [Ensemble Learning and Random Forests.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C7_N1_Ensemble%20Learning%20and%20Random%20Forests.ipynb)
 
 ### Chapter 8 - Dimensionality Reduction
 
