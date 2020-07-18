@@ -31,7 +31,7 @@
 
 ### Chapter 8 - Dimensionality Reduction
 
-- [PCA, Kernel PCA, and LLE.ipynb]()
+- [PCA, Kernel PCA, and LLE.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C8_N1_PCA%2C%20Kernel%20PCA%2C%20and%20LLE.ipynb)
 
 ### Chapter 9 - Unsupervised Learning Techniques
 
