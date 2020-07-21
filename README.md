@@ -40,7 +40,7 @@
 
 ### Chapter 10 - Introduction to Artificial Neural Networks with Keras
 
-- [Implementing MLP and Fine-Tuning NN Hyperparameters.ipynb]()
+- [Implementing MLP and Fine-Tuning NN Hyperparameters.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C10_N1_Implementing%20MLP%20and%20Fine-Tuning%20NN%20Hyperparameters.ipynb)
 
 ### Chapter 11 - Training Deep Neural Networks
 
