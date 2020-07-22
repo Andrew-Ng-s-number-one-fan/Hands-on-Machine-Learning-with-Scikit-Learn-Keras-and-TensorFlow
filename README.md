@@ -44,6 +44,11 @@
 
 ### Chapter 11 - Training Deep Neural Networks
 
+- [Vanishing/Exploding Gradients Problems.ipynb]()
+- [Transfer Learning and Unsupervised Pretraining.ipynb]()
+- [Faster Optimizers.ipynb]()
+- [Popular Regularization Techniques for Large NNs.ipynb]()
+
 ### Chapter 12 - Custom Models and Training with TensorFlow
 
 ### Chapter 13 - Loading and Preprocessing with TensorFlow
