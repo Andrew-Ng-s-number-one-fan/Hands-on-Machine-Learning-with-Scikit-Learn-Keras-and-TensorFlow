@@ -45,7 +45,7 @@
 ### Chapter 11 - Training Deep Neural Networks
 
 - [Vanishing/Exploding Gradients Problems.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C11_N1_The%20Vanishing%20Exploding%20Gradients%20Problems.ipynb)
-- [Transfer Learning and Unsupervised Pretraining.ipynb]()
+- [Transfer Learning and Unsupervised Pretraining.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C11_N2_Transfer%20Learning%20and%20Unsupervised%20Pretraining.ipynb)
 - [Faster Optimizers.ipynb]()
 - [Popular Regularization Techniques for Large NNs.ipynb]()
 
