@@ -47,7 +47,7 @@
 - [Vanishing/Exploding Gradients Problems.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C11_N1_The%20Vanishing%20Exploding%20Gradients%20Problems.ipynb)
 - [Transfer Learning and Unsupervised Pretraining.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C11_N2_Transfer%20Learning%20and%20Unsupervised%20Pretraining.ipynb)
 - [Faster Optimizers.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C11_N3_Faster%20Optimizers.ipynb)
-- [Popular Regularization Techniques for Large NNs.ipynb]()
+- [Popular Regularization Techniques for Large NNs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C11_N4_Popular%20Regularization%20Techniques%20for%20Large%20NNs.ipynb)
 
 ### Chapter 12 - Custom Models and Training with TensorFlow
 
