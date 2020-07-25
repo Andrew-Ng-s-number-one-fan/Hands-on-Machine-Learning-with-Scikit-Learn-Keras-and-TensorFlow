@@ -52,7 +52,7 @@
 ### Chapter 12 - Custom Models and Training with TensorFlow
 
 - [Tensors and Operations.ipynb]()
-- [Customer Models and Training.ipynb]()
+- [Custom Models and Training.ipynb]()
 
 ### Chapter 13 - Loading and Preprocessing with TensorFlow
 
