@@ -56,6 +56,8 @@
 
 ### Chapter 13 - Loading and Preprocessing with TensorFlow
 
+- [Loading and Preprocessing with TensorFlow.ipynb]()
+
 ### Chapter 14 - Deep Computer Vision Using Convolutional Neural Networks
 
 ### Chapter 15 - Processing Sequences Using RNNs and CNNs
