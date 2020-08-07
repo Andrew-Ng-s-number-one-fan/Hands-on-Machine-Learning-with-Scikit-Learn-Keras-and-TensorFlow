@@ -52,7 +52,7 @@
 ### Chapter 12 - Custom Models and Training with TensorFlow
 
 - [Tensors and Operations.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C12_N1_Tensors%20and%20Operations.ipynb)
-- [Custom Models and Training.ipynb]()
+- [Custom Models and Training.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C12_N2_Custom%20Models%20and%20Training.ipynb)
 
 ### Chapter 13 - Loading and Preprocessing with TensorFlow
 
