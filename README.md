@@ -60,6 +60,8 @@
 
 ### Chapter 14 - Deep Computer Vision Using Convolutional Neural Networks
 
+- [Deep Computer Vision Using CNNs.ipynb]()
+
 ### Chapter 15 - Processing Sequences Using RNNs and CNNs
 
 ### Chapter 16 - Natural Language Processing with RNNs and Attention
