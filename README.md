@@ -56,7 +56,7 @@
 
 ### Chapter 13 - Loading and Preprocessing with TensorFlow
 
-- [Loading and Preprocessing Data.ipynb]()
+- [Loading and Preprocessing Data.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C13_N1_Loading%20and%20Preprocessing%20Data.ipynb)
 
 ### Chapter 14 - Deep Computer Vision Using Convolutional Neural Networks
 
