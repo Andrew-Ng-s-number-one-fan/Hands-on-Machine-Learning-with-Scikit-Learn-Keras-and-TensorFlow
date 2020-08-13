@@ -60,9 +60,11 @@
 
 ### Chapter 14 - Deep Computer Vision Using Convolutional Neural Networks
 
-- [Deep Computer Vision Using CNNs.ipynb]()
+- [Deep Computer Vision Using CNNs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C14_N1_Deep%20Computer%20Vision%20Using%20CNNs.ipynb)
 
 ### Chapter 15 - Processing Sequences Using RNNs and CNNs
+
+- []()
 
 ### Chapter 16 - Natural Language Processing with RNNs and Attention
 
