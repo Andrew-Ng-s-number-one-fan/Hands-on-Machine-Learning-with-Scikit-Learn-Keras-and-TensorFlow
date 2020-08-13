@@ -64,7 +64,7 @@
 
 ### Chapter 15 - Processing Sequences Using RNNs and CNNs
 
-- []()
+- [Processing Sequences Using RNNs and CNNs.ipynb]()
 
 ### Chapter 16 - Natural Language Processing with RNNs and Attention
 
