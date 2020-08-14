@@ -64,9 +64,11 @@
 
 ### Chapter 15 - Processing Sequences Using RNNs and CNNs
 
-- [Processing Sequences Using RNNs and CNNs.ipynb]()
+- [Processing Sequences Using RNNs and CNNs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C15_N1_Processing%20Sequences%20using%20RNNs%20and%20CNNs.ipynb)
 
 ### Chapter 16 - Natural Language Processing with RNNs and Attention
+
+- [NLP with RNNs and Attention.ipynb]()
 
 ### Chapter 17 - Representation Learning and Generative Learning Using Autoencoders and GANs
 
