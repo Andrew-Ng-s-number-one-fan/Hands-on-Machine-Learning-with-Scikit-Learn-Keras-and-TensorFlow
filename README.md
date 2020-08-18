@@ -72,8 +72,12 @@
 
 ### Chapter 17 - Representation Learning and Generative Learning Using Autoencoders and GANs
 
--[Autoencoders and GANs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C17_N1_Autoencoders%20and%20GANs.ipynb)
+- [Autoencoders and GANs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C17_N1_Autoencoders%20and%20GANs.ipynb)
 
 ### Chapter 18 - Reinforcement Learning
 
+- []()
+
 ### Chapter 19 - Training and Deploying TensorFlow Models at Scale
+
+- []()
