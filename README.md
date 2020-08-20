@@ -87,5 +87,3 @@
 <p align="center">
   <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="656px" width="500px">  
 </p>
-
-![image](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg)
