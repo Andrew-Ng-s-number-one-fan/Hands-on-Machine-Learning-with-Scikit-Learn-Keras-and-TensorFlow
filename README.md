@@ -1,9 +1,11 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 <i> A book by Aurélien Géron</i>
 
+<br>
 <p align="center">
   <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="656px" width="500px">  
 </p>
+<br>
 
 ### Chapter 1 - The Machine Learning Landscape
 
