@@ -1,6 +1,8 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 <i> A book by Aurélien Géron</i>
 
+<br>
+
 <p align="center">
   <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="656px" width="500px">  
 </p>
@@ -87,9 +89,3 @@
 ### Chapter 19 - Training and Deploying TensorFlow Models at Scale
 
 - Training and Deploying.ipynb (To be updated)
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="656px" width="500px">  
-</p>
