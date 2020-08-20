@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="656px" width="500px">  
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="394px" width="300px">  
 </p>
 <br>
 
