@@ -83,4 +83,4 @@
 - Training and Deploying.ipynb (To be updated)
 
 
-![image]()
+![image](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg)
