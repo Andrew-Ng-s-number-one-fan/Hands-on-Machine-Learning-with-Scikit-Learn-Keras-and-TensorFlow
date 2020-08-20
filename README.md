@@ -76,8 +76,8 @@
 
 ### Chapter 18 - Reinforcement Learning
 
-- []()
+- Reinforcement Learning.ipynb (To be updated)
 
 ### Chapter 19 - Training and Deploying TensorFlow Models at Scale
 
-- []()
+- Training and Deploying.ipynb (To be updated)
