@@ -7,6 +7,7 @@
 </p>
 <br>
 
+# Notebooks
 ### Chapter 1 - The Machine Learning Landscape
 
 - [Predicting Life Satisfaction using GDP per capita.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/C1_N1_Predicting%20Life%20Satisfaction%20using%20GDP%20per%20capita.ipynb)
