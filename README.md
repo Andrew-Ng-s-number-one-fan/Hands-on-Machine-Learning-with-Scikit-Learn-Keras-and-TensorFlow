@@ -81,3 +81,6 @@
 ### Chapter 19 - Training and Deploying TensorFlow Models at Scale
 
 - Training and Deploying.ipynb (To be updated)
+
+
+![image]()
